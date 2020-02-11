@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oxwx.github.io/</id>
     <title>Iridescent</title>
-    <updated>2020-02-11T14:00:49.280Z</updated>
+    <updated>2020-02-11T14:01:10.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oxwx.github.io/"/>
     <link rel="self" href="https://oxwx.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://oxwx.github.io/images/avatar.png</logo>
     <icon>https://oxwx.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Iridescent</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://oxwx.github.io/post/about</id>
+        <link href="https://oxwx.github.io/post/about">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<pre><code> 不指望有人看。
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://oxwx.github.io/post/hello-gridea</id>
